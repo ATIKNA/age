@@ -3,9 +3,7 @@
 """
 alice_file.py
 
-Created by Jason Elbourne on 2011-12-29.
-Copyright (c) 2011 Jason Elbourne. All rights reserved.
-"""
+
 import operator
 
 
